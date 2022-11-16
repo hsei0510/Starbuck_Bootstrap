@@ -94,6 +94,10 @@
     background-color: #006633;
   }
 
+  .underline {
+    text-decoration: underline;
+  }
+
   .bg-dark {
     background-color: #f6f5ef !important;
   }
