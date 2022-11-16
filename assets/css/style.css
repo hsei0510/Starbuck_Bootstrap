@@ -186,3 +186,16 @@
 .back {
   color: #6c757d;
 }
+
+.display-5 {
+  font-size: calc(1.15rem + 1.5vw);
+}
+
+.lead {
+  font-size: calc(0.8rem + 0.5vw);
+}
+
+.py-5 {
+  padding-top: 1.5rem!important;
+  padding-bottom: 2.5rem!important;
+}
